@@ -7,5 +7,5 @@ Althought commonly referred to as "light gun" games, not all the games adopting 
 
 Positional guns were easier to implement and, most important for us, their working principle was independent on the monitor technology!
 
-In this repo all the files I developed for the project.
+In this repo all the files I developed for the project. You will aslso find my MAMEHooker default.ini file for most MAME, Model 2 and Teknoparrot games. It's a single file to be copied in the Mamehooker/ini/MAME/ directory.
 
