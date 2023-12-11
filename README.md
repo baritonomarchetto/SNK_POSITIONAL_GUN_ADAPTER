@@ -9,6 +9,8 @@ Positional guns were easier to implement and, most important for us, their worki
 
 In this repo all the files I developed for the project. You will aslso find my MAMEHooker default.ini file for most MAME, Model 2 and Teknoparrot games. It's a single file to be copied in the Mamehooker/ini/MAME/ directory.
 
+More informations here: https://www.instructables.com/SNK-Positional-Gun-Arcade-Assembly-Retrofit/
+
 Many thanks to those nice girls and guys at JLCPCB for sponsoring the manufacturing of this project's FR-4 PCB.
 JLCPCB is a high-tech manufacturer specialized in the production of high-reliable and cost-effective PCBs. They offer a flexible PCB assembly service with a huge library of more than 350.000 components in stock.
 
